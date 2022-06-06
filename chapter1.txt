@@ -1,1 +1,2 @@
 This is my story.
+It is about coding and building something great.
